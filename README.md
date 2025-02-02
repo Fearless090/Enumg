@@ -21,10 +21,6 @@ python Enumg.py [-h] -d DOMAIN -w WORDLIST [-o OUTPUT] [-r/--reslove]
 
 3. The discovered subdomains will be printed in the terminal and saved to a text file.
 
-## Output
-
-- The script will generate a file named `subdomains.txt` containing the discovered subdomains, each on a new line.
-
 ## Example
 
 ```bash
