@@ -24,7 +24,7 @@ python Enumg.py [-h] -d DOMAIN -w WORDLIST [-o OUTPUT] [-r/--reslove]
 ## Example
 
 ```bash
-└─$ Enumg.py -d example.com -w common.txt --resolve -o subdomains.txt
+└─$ Enumg.py -d example.com -w commonWords.txt --resolve -o subdomains.txt
 Found subdomain: www.example.com - IP: 93.184.216.34
 Found subdomain: blog.example.com - IP: 93.184.216.35
 Total subdomains found: 2
